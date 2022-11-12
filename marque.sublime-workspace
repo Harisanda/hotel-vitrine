@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"pd",
+				"padding-right\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Miniprojet/mini js/mes projets/hotel/marque",
+		"/E/Miniprojet/mini js/mes projets/hotel/sanda",
+		"/C/Users/user/Desktop/testeSafidy.html",
+		"/C/Users/user/Downloads/JS-click-game-master/style.css",
+		"/C/Users/user/Downloads/js/game/html/basic-project-file-master/main.scss",
+		"/E/Miniprojet/mini js/floppy bird/script.js",
+		"/C/xampp/htdocs/index.php",
+		"/C/javascript/DOM/js.js",
+		"/E/Harisanda/interface.py",
+		"/E/Harisanda/test.py",
+		"/C/Users/user/Desktop/disquaire_project/disquaire_project/settings.py",
+		"/E/Harisanda/data.db",
+		"/E/Harisanda/datatest.db",
+		"/E/Bug/tst.py",
+		"/E/Bug/bjr",
+		"/E/Bug/exemple.py",
+		"/E/Bug/grid.py",
+		"/C/python/bjr.py",
+		"/C/Users/user/Desktop/test.py.txt",
+		"/C/Users/user/Desktop/test",
+		"/C/python/hello.python",
+		"/E/Harisanda/taona.py",
+		"/C/Users/user/Desktop/hello.py.txt",
+		"/C/Users/user/Desktop/script.py.txt",
+		"/E/Harisanda/hello.py",
+		"/E/Harisanda/and.py",
+		"/C/python/hello.py",
+		"/C/python/index.html",
+		"/C/Users/user/Documents/javascript/exepe.html",
+		"/C/Users/user/Desktop/test.py",
+		"/C/Users/user/Documents/javascript/traduction.html",
+		"/E/test.py",
+		"/C/Users/user/Documents/javascript/expe",
+		"/C/Users/user/Desktop/revhtml/index.html",
+		"/C/Users/user/Documents/Jtest.java",
+		"/C/Projet/interface.html",
+		"/E/game-s/style.css",
+		"/E/game-s/ankamantatra.html",
+		"/E/game-s/ankamantatra.js",
+		"/E/game-s/index.html",
+		"/E/game-s/angano1.html",
+		"/E/game-s/angano2.html",
+		"/E/game-s/angano3.html",
+		"/E/game-s/listAngano.html",
+		"/C/openclass/projectM.html",
+		"/C/Projet/Pstyle.css",
+		"/C/openclass/style.css",
+		"/C/openclass/projet.html",
+		"/C/openclass/projet3.0",
+		"/C/openclass/monCV.html",
+		"/C/openclass/appli.html",
+		"/C/openclass/applic",
+		"/C/openclass/application",
+		"/C/openclass/style",
+		"/C/openclass/cv"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "marque.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
